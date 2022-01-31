@@ -78,7 +78,7 @@ main{}
 
 /*ESTILO DESTAQUE*/
 .secaoDestaque{
-    background-image: url(../assets/img/pokemon.jpg);
+    background-image: linear-gradient(to bottom, transparent 0%, rgb(0, 0, 0) 95%), url(../assets/img/pokemon.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
